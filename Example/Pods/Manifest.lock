@@ -1,0 +1,16 @@
+PODS:
+  - GeeButtonLayout (0.1.0)
+
+DEPENDENCIES:
+  - GeeButtonLayout (from `../`)
+
+EXTERNAL SOURCES:
+  GeeButtonLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GeeButtonLayout: e96896824146fed4140a67f70cd97a327cf48780
+
+PODFILE CHECKSUM: 8e11ed7af90f1f7ec9cfe8114a00a7b8e6ce9859
+
+COCOAPODS: 1.11.2

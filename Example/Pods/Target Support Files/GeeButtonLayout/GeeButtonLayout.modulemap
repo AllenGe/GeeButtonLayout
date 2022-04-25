@@ -1,0 +1,6 @@
+framework module GeeButtonLayout {
+  umbrella header "GeeButtonLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
